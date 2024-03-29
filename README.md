@@ -23,3 +23,7 @@ TinDog is a responsive website created using HTML and CSS, aimed at connecting d
 ## Outcome
 Successfully delivered a visually appealing and functional website meeting client requirements.
 
+## Screenshots
+![TinDog Features]([/path/to/homepage-screenshot.png](https://github.com/hetvi3012/Tindog/blob/main/features-goal.jpg))
+![TinDog Testimonials](/path/to/testimonials-screenshot.png)
+
